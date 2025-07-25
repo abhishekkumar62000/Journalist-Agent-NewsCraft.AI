@@ -1,6 +1,6 @@
 # Import the required libraries
 from textwrap import dedent
-from agno.agent import Agent
+from agno.agent import Agent 
 from agno.tools.serpapi import SerpApiTools
 from agno.tools.newspaper4k import Newspaper4kTools
 import streamlit as st
