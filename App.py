@@ -3,7 +3,7 @@ from textwrap import dedent
 from agno.agent import Agent 
 from agno.tools.serpapi import SerpApiTools
 from agno.tools.newspaper4k import Newspaper4kTools
-import streamlit as st 
+import streamlit as st
 from agno.models.openai import OpenAIChat
 
 # Set up the Streamlit app
