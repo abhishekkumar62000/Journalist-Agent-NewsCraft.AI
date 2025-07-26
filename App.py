@@ -5,7 +5,7 @@ from agno.tools.serpapi import SerpApiTools
 from agno.tools.newspaper4k import Newspaper4kTools
 import streamlit as st
 from agno.models.openai import OpenAIChat 
-
+ 
 # Set up the Streamlit app 
 st.title("AI Journalist Agent 🗞️")  
 st.caption("Generate High-quality articles with AI Journalist by researching, writing and editing quality articles on autopilot using GPT-4.1-nano (lower cost)")
